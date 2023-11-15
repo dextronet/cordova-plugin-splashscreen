@@ -1,0 +1,13 @@
+{
+  "name": "cordova-plugin-splashscreen",
+  "version": "1.0.0",
+  "description": "Cordova Splashscreen Plugin",
+  "cordova": {
+    "id": "cordova-plugin-splashscreen",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "github:dextronet/cordova-plugin-splashscreen"
+}
